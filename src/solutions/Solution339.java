@@ -1,3 +1,5 @@
+package solutions;
+
 import interfaces.NestedInteger;
 import java.util.List;
 

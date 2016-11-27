@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution463 {
     public int islandPerimeter(int[][] grid) {
         if (grid.length == 0 || grid[0].length == 0) return 0;

@@ -1,6 +1,7 @@
+package solutions;
+
 import java.util.LinkedList;
 import java.util.Queue;
-
 
 public class Solution346 {
     public class MovingAverage {

@@ -1,6 +1,5 @@
-/**
- * Created by joohwan on 11/26/16.
- */
+package solutions;
+
 public class Solution344 {
     public String reverseString(String s) {
         if (s == null || s.length() == 0) return "";

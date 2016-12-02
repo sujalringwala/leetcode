@@ -9,3 +9,6 @@ Solution157
 Solution326
 Solution362
 Solution280
+Solution370
+Solution364
+Solution101

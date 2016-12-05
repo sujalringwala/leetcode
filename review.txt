@@ -8,6 +8,7 @@ Solution050
 Solution101
 Solution169
 Solution157
+Solution189
 Solution219
 Solution231
 Solution237

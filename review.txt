@@ -23,24 +23,11 @@ Solution338
 Solution362
 Solution364
 Solution370
+Solution382
+Solution392
 
 Useful concepts found in:
 
-Solution347
-
-
- * A = [
- *   [ 1, 0, 0],
- *   [-1, 0, 3]
- * ]
- *
- * B = [
- *   [ 7, 0, 0 ],
- *   [ 0, 0, 0 ],
- *   [ 0, 0, 1 ]
- * ]
- *
- *
- *      |  1 0 0 |   | 7 0 0 |   |  7 0 0 |
- * AB = | -1 0 3 | x | 0 0 0 | = | -7 0 3 |
- *                   | 0 0 1 |
+Solution347 - use buckets for top frequencies
+Solution382 - reservoir sampling
+Solution392 - indexOf is fast

@@ -17,7 +17,30 @@ Solution258
 Solution276
 Solution280
 Solution283
+Solution311
 Solution326
+Solution338
 Solution362
 Solution364
 Solution370
+
+Useful concepts found in:
+
+Solution347
+
+
+ * A = [
+ *   [ 1, 0, 0],
+ *   [-1, 0, 3]
+ * ]
+ *
+ * B = [
+ *   [ 7, 0, 0 ],
+ *   [ 0, 0, 0 ],
+ *   [ 0, 0, 1 ]
+ * ]
+ *
+ *
+ *      |  1 0 0 |   | 7 0 0 |   |  7 0 0 |
+ * AB = | -1 0 3 | x | 0 0 0 | = | -7 0 3 |
+ *                   | 0 0 1 |

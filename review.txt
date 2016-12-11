@@ -26,6 +26,14 @@ Solution370
 Solution382
 Solution392
 
+Buy and Sell Stock:
+
+Solution121 - Best Time to Buy and Sell Stock: Single Transaction
+Solution122 - Best Time to Buy and Sell Stock: Unlimited Transactions
+Solution123 - Best Time to Buy and Sell Stock: Two Transactions
+Solution188 - Best Time to Buy and Sell Stock: K Transactions
+Solution309 - Best Time to Buy and Sell Stock: with Cooldown
+
 Useful concepts found in:
 
 Solution347 - use buckets for top frequencies

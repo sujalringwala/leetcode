@@ -8,6 +8,7 @@ Solution050
 Solution101
 Solution169
 Solution157
+Solution172
 Solution189
 Solution219
 Solution231
@@ -25,6 +26,10 @@ Solution364
 Solution370
 Solution382
 Solution392
+
+Tree Traversal:
+
+Solution094 - Iterative In-order Traversal
 
 Buy and Sell Stock:
 
